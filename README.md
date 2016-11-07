@@ -8,3 +8,6 @@ The Labmet website https://labmet.com.br (current [http://www.labmet.com.br](www
 - [ ] Blog Area
 - [ ] Repo Area
 - [ ] Improve Contact
+- [ ] Chat ?
+- [ ] Donation Area
+- [ ] Releases
