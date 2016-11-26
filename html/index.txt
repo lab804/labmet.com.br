@@ -1,0 +1,266 @@
+   #[1]RSS Feed
+
+   [2]Inicial
+   [3]Como Funciona
+   [4]Empresa
+   [5]Tenho Interesse
+
+[6]LabMet
+
+   [7]Inicial
+   [8]Como Funciona
+   [9]Empresa
+   [10]Tenho Interesse
+   Banners---Labmet.jpg
+
+   Torne sua fazenda mais inteligente
+
+   [11]Entenda como funciona
+
+LABMET, CRIADO POR PESQUISADORES. TESTADO POR AGRÔNOMOS.
+
+APROVADO POR PRODUTORES.
+
+   O LabMet é uma plataforma tecnológica de fácil compreensão,
+   desenvolvida para o pequeno, médio e grande Agricultor, no qual poderá
+   tomar decisões estratégicas, como: quando plantar, irrigar, adubar,
+   colher, etc) de forma simples e precisa.
+
+   A principal função é combinar monitoramento, localização e simulações
+   meteorológicas avançadas com análise profunda de dados do solo e
+   cultura para entregar soluções e recomendações aos produtores e seu
+   plantio.
+
+   O LabMet é uma tecnologia de precisão, no qual ajuda os produtores a
+   tomar as melhores decisões, reduzindo riscos através de modelos
+   estatísticos e desta forma aumentando a produtividade e lucratividade.
+   [] []
+   [] []
+     __________________________________________________________________
+
+CASOS DE SUCESSO
+
+   [] []
+
+   "Ao receber sugestões de quando o meu solo esta apto e o tempo está bom
+   para o plantio, eu pude reduzir a perda no meu plantio de Soja"
+   [] []
+
+   "Adoro receber o SMS informando quando é a melhor data para aplicar
+   pesticida, desta forma reduzo meus gastos e aumento minha produção"
+
+
+   [] []
+
+   "Saber quando colher é uma das decisões mais difíceis no campo, porém
+   agora tenho uma previsão de tempo especifica para a minha propriedade e
+   uma sugestão de data de colheita por SMS"
+   [12]Tenho Interesse
+   00---Banner.jpg
+
+   Como funciona
+
+INFORMAÇÕES PRECISAS PARA O PRODUTOR
+
+   [] []
+
+   Desenvolvido dentro de renomadas universidades e reconhecido pela sua
+   alta performance. O LabMet foi desenvolvido após inúmeras pesquisas em
+   diversas regiões e testado no campo. A plataforma tem apresentado
+   resultados incríveis gerando economia e produtividade para produtores.
+
+
+     __________________________________________________________________
+
+ O LABMET ALCANÇA ESTES RESULTADOS EM 4 PRINCIPAIS VERTENTES:
+
+   [] []
+
+QUANDO E QUANTO IRRIGAR
+
+   Através de análise de dados históricos de mais de 50 anos cruzados com
+   informações da sua região e da sua plantação, o LabMet desenvolve
+   simulações diárias e por hora. O produtor acessa análises na plataforma
+   e também recebe notificações por email e SMS diariamente sobre quando
+   irrigar.
+
+
+
+
+   stock-photo-farm-machinery-planting-potatoes-93954184.jpg
+   stock-photo-farm-machinery-planting-potatoes-93954184.jpg
+
+QUANDO
+PLANTAR
+
+   O LabMet processa dados meteorológicos e de inúmeras culturas cruzando
+   com informações do seu solo e da sua plantação. Baseado em simulações
+   em tempo real, a plataforma informa a melhor cultura para seu solo e
+   quando plantar. Voce toma decisões gerando sempre a maior produtividade
+   e lucratividade.
+   6431985-farming-tractor-spraying-a-field-Stock-Photo-agriculture-tracto
+   r-agricultural.jpg
+   6431985-farming-tractor-spraying-a-field-Stock-Photo-agriculture-tracto
+   r-agricultural.jpg
+
+QUANDO PULVERIZAR
+
+   A plataforma combina dados de tempo, vento e precipitação da sua região
+   com informações como data de plantio e variedade de culturas para gerar
+   modelos específicos para sua plantação. Informamos dados e estágios de
+   crescimento, índices de pestes, pragas e estresse das culturas. Voce
+   visualiza análises na plataforma e recebe avisos por email e SMS sobre
+   quando aplicar fertilizantes e pesticidas.
+   [] []
+
+QUANDO
+COLHER
+
+   Análises meteorológicas processadas diariamente e por hora geram
+   informações precisas e específicas pra sua plantação. Simulações lhe
+   mostraram o melhor momento da colheita e lhe ajudarando a gerar o
+   máximo de produtividade e lucratividade. Além disso o sistema lhe
+   indica regiões do campo para trabalhar de acordo com a precipitação e
+   velocidade do vento.
+   [13]Tenho Interesse
+   00---Banner.jpg
+
+   Funcionalidades
+
+
+ FUNCIONALIDADES PARA GERENCIAR TODA SUA OPERAÇÃO
+
+   [] []
+
+GERENCIE SUA PLANTAÇÃO COM PAINEL DE CONTROLE CUSTOMIZADO
+
+   [] []
+   [] []
+
+   O painel de controle do LabMet é onde voce encontra todas as
+   informações da sua plantação. De fácil customização, ele permiti ter
+   todas as informações organizadas enquanto voce monitora importante
+   informações e condições climáticas, do seu solo e da sua plantação. O
+   painel de controle proporciona fácil acesso a informações da sua
+   plantação de qualquer ferramenta e local.
+     * Crie o painel de controle de acordo com sua necessidades e veja ele
+       se atualizar a todo momento
+     * Faça suas próprias análises e gerenciamentos no campo ou no
+       escritório
+     * Simplifique a visão da tela para decisões rápidas ou crie análises
+       complexas para gerenciar tendências de longo prazo
+
+
+
+   [] []
+
+TELAS FÁCEIS TRANSFORMAM DADOS EM DECISÕES
+
+   Nossas ferramentas são desenhadas para fornecer informações específicas
+   rapidamente e elegantemente sem confundir voce.
+     * Foque em qualquer fonte de dados ou grupo de informações com uma
+       ferramenta
+     * Faça tendências, médias, simulações e previsões que são fáceis de
+       entender com qualquer período de tempo
+     * Ferramentas meteorológicas oferecem previsões locais e focadas na
+       sua plantação
+     * Configure limites do sensor para ser notificado quando acontecer
+       qualquer mudança
+     * Use várias ferramentas juntas para capturar informação de varias
+       fontes e compare lado a lado
+
+
+RECEBA ALERTAS POR EMAIL OU SMS EM QUALQUER TELEFONE
+
+   Configure alertas para qualquer informação e tenha elas enviadas em
+   tempo real para seu telefone e email. Alertas são configurados de
+   acordo com as necessidades de cada produtor para gerar economia e
+   lucratividade.
+     * Acompanhe todos os alertas ativos e expirados no sistema
+     * Configure alertas para baixas ou altas temperaturas
+     * Defina alertas pra níveis de humidade ou pressão
+     * Determine alertas para ventos fortes
+     * Recebe em qualquer telefone e conta de email
+
+   [] []
+
+
+FERRAMENTA INTUITIVA DETALHA INFORMAÇÒES COM GRÁFICOS
+
+   Algumas vezes precisamos de informações mais detalhadas para visualizar
+   tendências. LabMet apoia voce fornecendo gráficos interativos e
+   avançados..
+     * Use datas, locais e hoáriors específicos
+     * Agrupe informações similares e analise usando gráficos
+     * Salve e exporte gráficos e informações para PDFs ou imagens
+
+
+   [14]Tenho Interesse
+
+   00---Banner.jpg
+
+   Publicações
+   [] []
+
+   `Neurônios artificiais' permitem previsão do tempo customizada e
+   econômica para empreendedores rurais
+
+   Publicado em Centro Paulo Souza, 05 de Janeiro de 2016
+
+   "O projeto propõe entregar as informações "customizadas" para cada
+   usuário. Pelo computador ou aplicativos para celular, ele pode ter
+   acesso rápido, em tempo real, a dados distintos sobre o clima, sem
+   precisar investir em uma estação meteorológica ou mesmo num sistema
+   próprio de previsão. A ideia é poupar tempo e dinheiro."
+   [] []
+
+   `Neurônios artificiais' que preveem informações pertinentes à
+   agricultura.
+
+   Publicado na Revista Agro S/A, 26 de Fevereiro de 2016
+
+   Plataforma de consulta e previsão de indicadores meteorológicos permite
+   acesso a informações climáticas de maneira simples, unificada e mais
+   barata.
+
+   Acesse o link abaixo, página 40.
+   [15]Leia o artigo aqui
+   [16]Leia o artigo aqui
+   Social Links Block
+   These are example icons. Add your own social accounts by navigating to
+   Home > Settings > Connected Accounts. Once you've connected some
+   accounts, their icons will appear here.
+   You can double-click here to change the look and feel of the icons.
+   [17]Learn more.
+   [18]Back to Top
+
+   Powered by [19]Squarespace
+
+Referências
+
+   Ligações visíveis
+   1. http://www.labmet.com.br/work?format=RSS
+   2. http://www.labmet.com.br/
+   3. http://www.labmet.com.br/como-funciona/
+   4. http://www.labmet.com.br/new-index/
+   5. http://www.labmet.com.br/contato/
+   6. http://www.labmet.com.br/
+   7. http://www.labmet.com.br/
+   8. http://www.labmet.com.br/como-funciona/
+   9. http://www.labmet.com.br/new-index/
+  10. http://www.labmet.com.br/contato/
+  11. http://www.labmet.com.br/como
+  12. http://www.labmet.com.br/contato
+  13. http://www.labmet.com.br/
+  14. http://www.labmet.com.br/contato
+  15. http://www.centropaulasouza.sp.gov.br/noticias/2016/janeiro/05_neuronios-artificiais-permitem-previsao-do-tempo-customizada-e-economica-para-empreendedores-rurais.asp
+  16. https://pt.calameo.com/read/00054323569989216d6fc
+  17. https://support.squarespace.com/hc/en-us/articles/206543537
+  18. http://www.labmet.com.br/#header
+  19. http://www.squarespace.com/
+
+   Ligações escondidas:
+  21. http://www.labmet.com.br/
+  22. http://www.labmet.com.br/
+  23. http://www.labmet.com.br/
+  24. http://www.labmet.com.br/
