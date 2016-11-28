@@ -3,7 +3,7 @@ The Labmet website https://labmet.com.br (current [http://www.labmet.com.br](www
 
 ### To Do
 
-- [ ] Copy the current content
+- [x] Copy the current content
 - [ ] Mult languages (en/es/pt)
 - [ ] Blog Area
 - [ ] Repo Area
