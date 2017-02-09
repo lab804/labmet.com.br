@@ -1,13 +1,2 @@
 # labmet.com.br
-The Labmet website https://labmet.com.br (current [http://www.labmet.com.br](www.labmet.com.br))
-
-### To Do
-
-- [x] Copy the current content
-- [ ] Mult languages (en/es/pt)
-- [ ] Blog Area
-- [ ] Repo Area
-- [ ] Improve Contact
-- [ ] Chat ?
-- [ ] Donation Area
-- [ ] Releases
+The Labmet website https://site.labmet.com.br (current [http://www.labmet.com.br](www.labmet.com.br))
