@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<!--[if IE 9 ]><html class="ie ie9 no-js" lang="en"><![endif]-->
+<!--[if gt IE 9 | !IE]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+{% include head.html %}
+<body>
+  <div class="page-loader">
+    <div class="spinner">
+      <div class="bounce1"></div>
+      <div class="bounce2"></div>
+      <div class="bounce3"></div>
+    </div>
+  </div>
+  {% include nav.html %}
+  {{content}}
+  {% include footer.html%}
+  {% include js.html %}
+</body>
+</html>
