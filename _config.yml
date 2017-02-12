@@ -1,6 +1,10 @@
 title: LabMet
 email: contato@labmet.com.br
 author: labmet
+linkedin: labmet
+phone:
+  - (16) 3209 0000
+  - (16) 9999 9999
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -19,3 +23,13 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - .DS_Store
+address:
+  - Rua Barão do Rio Branco, 585
+  - Sala 705 / 7 Andar
+whatwedo:
+  - Projetado para produtores e gestores agrícolas, a <b>LabMet</b> entrega dados estruturados e precisos para a tomada de decisão.
+  - São mais de estações espelhadas pelo Brasil. Em um único ambiente, de forma simples e momentâneos, entregamos os dados. Você também pode ter dados da sua propriedade rural adquirindo nossas estações que foram feitas com carinho para voce.
+  - hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+  - jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+  - jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+  - hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh

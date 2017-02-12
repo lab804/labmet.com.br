@@ -1,0 +1,21 @@
+---
+layout: index
+title: O que fazemos
+permalink: /whatwedo/
+---
+
+<h2 class="section-title"><b>h</b>O que nós fazemos</h2>
+
+<div class="container mtb">
+    <div class="row">
+          <br>
+          <br>
+            <div class="hline"></div>
+              <form role="form">
+                <p>{% for line in site.whatwedo %}
+                        {{ line }} <br>
+                  {% endfor %}
+                </p>
+              </form>
+    </div>
+</div>
