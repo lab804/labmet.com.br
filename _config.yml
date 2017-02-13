@@ -21,7 +21,7 @@ gems:
   - jekyll-sitemap
 exclude:
   - Gemfile
-  - Gemfile.lock
+  - Gemfile.lock O projeto LabMet é uma plataforma tecnológica de precisão e de fácil compreensão, com embasamento técnico, teórico e científico, que visa desenvolver um sistema de apoio aos agricultores, gestores agrícolas e pesquisadores, capaz de sanar as principais lacunas existentes nas ferramentas disponíveis atualmente no mercado. Este sistema tem por objetivo auxiliar nas tomadas de decisões gerenciais das principais culturas agrícolas do país.
   - .DS_Store
 address:
   - Rua Barão do Rio Branco, 585
@@ -29,7 +29,15 @@ address:
 whatwedo:
   - Projetado para produtores e gestores agrícolas, a <b>LabMet</b> entrega dados estruturados e precisos para a tomada de decisão.
   - São mais de estações espelhadas pelo Brasil. Em um único ambiente, de forma simples e momentâneos, entregamos os dados. Você também pode ter dados da sua propriedade rural adquirindo nossas estações que foram feitas com carinho para voce.
-  - hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
-  - jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
-  - jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
-  - hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+
+about:
+  - Nossa missão é entregar dados meteorológicos mais precisos para produtores e gestores agrícolas, de forma simples, rápida e segura.
+  - Nós acreditamos que os dados são a base para tudo. A LabMet quer trazer isto até você, com a maior qualidade e confiabilidade possível, a fim de conduzir você nas tomadas de decisão que irão interferir diretamente na sua pradução, desde o âmbito financeiro e produtivo até sustentável.
+press:
+  - O projeto LabMet é uma plataforma tecnológica de precisão e de fácil compreensão, com embasamento técnico, teórico e científico, que visa desenvolver um sistema de apoio aos agricultores, gestores agrícolas e pesquisadores, capaz de sanar as principais lacunas existentes nas ferramentas disponíveis atualmente no mercado. Este sistema tem por objetivo auxiliar nas tomadas de decisões gerenciais das principais culturas agrícolas do país.
+  - O projeto LabMet é uma plataforma tecnológica de precisão e de fácil compreensão, com embasamento técnico, teórico e científico, que visa desenvolver um sistema de apoio aos agricultores, gestores agrícolas e pesquisadores, capaz de sanar as principais lacunas existentes nas ferramentas disponíveis atualmente no mercado. Este sistema tem por objetivo auxiliar nas tomadas de decisões gerenciais das principais culturas agrícolas do país.
+  - O projeto LabMet é uma plataforma tecnológica de precisão e de fácil compreensão, com embasamento técnico, teórico e científico, que visa desenvolver um sistema de apoio aos agricultores, gestores agrícolas e pesquisadores, capaz de sanar as principais lacunas existentes nas ferramentas disponíveis atualmente no mercado. Este sistema tem por objetivo auxiliar nas tomadas de decisões gerenciais das principais culturas agrícolas do país.
+team:
+  - A nossa equipe possui engenheiros agrônomos que sabem o valor que estes dados têm e ajudam a todo momento.
+
+ 

@@ -1,0 +1,52 @@
+---
+layout: index
+title: Sobre
+permalink: /about/
+---
+
+<div class="container mtb">
+    <div class="row">
+      <br></br>
+      <br></br>
+      <br></br>
+        <ul class="nav nav-tabs" role="tablist">
+          <li role="presentation" class="active"><a href="#aboutus" class="btn btn-primary btn-lg active" role="tab" data-toggle="tab">Sobre nós</a></li>
+          <li role="presentation"><a href="#team" class="btn btn-primary btn-lg active" role="tab" data-toggle="tab">Equipe</a></li>
+          <li role="presentation"><a href="#press" class="btn btn-primary btn-lg active" role="tab" data-toggle="tab">Imprensa</a></li>
+        </ul>
+
+        <div class="tab-content">
+          <div role="tabpanel" class="tab-pane active" id="aboutus">
+            <br></br>
+            <h3 class="section-title"><b>Quem somos</b></h3>
+            <div class="hline"></div>
+            <form role="form">
+              <p>{% for line in site.about %}
+                      {{ line }} <br>
+                {% endfor %}
+              </p><br></br>
+          </div>
+          <div role="tabpanel" class="tab-pane" id="team">
+            <br></br>
+            <h3 class="section-title"><b>Nosso time</b></h3>
+            <div class="hline"></div>
+            <form role="form">
+              <p>{% for line in site.team %}
+                      {{ line }} <br>
+                {% endfor %}
+              </p><br></br>
+          </div>
+          <div role="tabpanel" class="tab-pane" id="press">
+            <br></br>
+            <h3 class="section-title"><b>Imprensa</b></h3>
+            <div class="hline"></div>
+            <form role="form">
+              <p>{% for line in site.press %}
+                      {{ line }} <br>
+                {% endfor %}
+              </p><br></br>
+            </div>
+          <div role="tabpanel" class="tab-pane" id="settings">...</div>
+        </div>
+      </div>
+  </div>
