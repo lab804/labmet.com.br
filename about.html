@@ -25,7 +25,30 @@ permalink: /about/
                       {{ line }} <br>
                 {% endfor %}
               </p><br></br>
+              <section id="timeline">
+                <ul>
+                    {% assign sorted = (site.history | sort: 'date') | reverse %}
+                    {% for item in sorted %}
+                        <article>
+                          <div class="inner">
+                            <span class="date">
+                              <span class="day">{{item.data.day}}<sup>th</sup></span>
+                              <span class="month">{{item.data.month}}</span>
+                              <span class="year">{{item.data.year}}</span>
+                            </span>
+                            <h2>{{item.data.title}}</h2>
+                            <p>{% for line in item.data.about %}
+                                {{ line }} <br>
+                              {% endfor %}
+                            </p>
+                          </div>
+                        </article>
+                  {% endfor %}
+                </ul>
+              </section>
+            </form>
           </div>
+
           <div role="tabpanel" class="tab-pane" id="team">
             <br></br>
             <h3 class="section-title"><b>Nosso time</b></h3>
@@ -35,7 +58,9 @@ permalink: /about/
                       {{ line }} <br>
                 {% endfor %}
               </p><br></br>
+            </form>
           </div>
+
           <div role="tabpanel" class="tab-pane" id="press">
             <br></br>
             <h3 class="section-title"><b>Imprensa</b></h3>
@@ -45,8 +70,8 @@ permalink: /about/
                       {{ line }} <br>
                 {% endfor %}
               </p><br></br>
+              </form>
             </div>
-          <div role="tabpanel" class="tab-pane" id="settings">...</div>
         </div>
       </div>
   </div>

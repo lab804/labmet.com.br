@@ -39,5 +39,17 @@ press:
   - O projeto LabMet é uma plataforma tecnológica de precisão e de fácil compreensão, com embasamento técnico, teórico e científico, que visa desenvolver um sistema de apoio aos agricultores, gestores agrícolas e pesquisadores, capaz de sanar as principais lacunas existentes nas ferramentas disponíveis atualmente no mercado. Este sistema tem por objetivo auxiliar nas tomadas de decisões gerenciais das principais culturas agrícolas do país.
 team:
   - A nossa equipe possui engenheiros agrônomos que sabem o valor que estes dados têm e ajudam a todo momento.
+history:
+  date: 01/01/2000
+    day: 01
+    month: 01
+    year: 2001
+    title: Primeiro
+    about: Ola mundo
 
- 
+  date: 01/01/2001
+    day: 01
+    month: 01
+    year: 2001
+    title: Segundo
+    about: Ola mundo 2
