@@ -40,16 +40,22 @@ press:
 team:
   - A nossa equipe possui engenheiros agrônomos que sabem o valor que estes dados têm e ajudam a todo momento.
 history:
-  date: 01/01/2000
-    day: 01
-    month: 01
-    year: 2001
-    title: Primeiro
-    about: Ola mundo
+  - title: Quarto post
+    about: Ola mundo 4
+    mes: Abr
+    ano: 2004
 
-  date: 01/01/2001
-    day: 01
-    month: 01
-    year: 2001
-    title: Segundo
+  - title: Terceiro post
+    about: Ola mundo 3
+    mes: Mar
+    ano: 2003
+
+  - title: Segundo post
     about: Ola mundo 2
+    mes: Fev
+    ano: 2002
+
+  - title: Primeiro post
+    about: Ola mundo
+    mes: Jan
+    ano: 2001

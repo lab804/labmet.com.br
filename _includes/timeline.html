@@ -1,1 +1,17 @@
 <link rel="stylesheet" href="timeline.css">
+
+<section id="timeline">
+  {% for item in site.history %}
+      <article>
+        <div class="inner">
+          <span class="date">
+            <span class="day">_</span>
+            <span class="month">{{item.mes}}</span>
+            <span class="year">{{item.ano}}</span>
+          </span>
+          <h2>{{item.title}}</h2>
+          <p>{{item.about}}</p>
+        </div>
+      </article>
+    {% endfor %}
+</section>
