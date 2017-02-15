@@ -59,3 +59,49 @@ history:
     about: Ola mundo
     mes: Jan
     ano: 2001
+
+people:
+- name: Bárbara Panosso
+  pic: 1
+  position: EMBEDDED DEVELOPER
+  social:
+    - title: linkedin
+      url: https://br.linkedin.com/in/barbarapanosso
+    - title: facebook
+      url: https://pt-br.facebook.com/barbara.panosso
+    - title: github
+      url: https://github.com/bapanosso
+
+- name: João Trevizolli
+  pic: 2
+  position: CEO
+  social:
+    - title: linkedin
+      url: https://br.linkedin.com/in/jtesteves
+    - title: facebook
+      url: https://www.facebook.com/joao.trevizoliesteves
+    - title: github
+      url: https://github.com/joaoTrevizoli
+
+- name: Murilo Ijanc'
+  pic: 3
+  position: SOFTWARE ENGINEER
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/murilo-ijanc-789517136?authType=NAME_SEARCH&authToken=GwBA
+    - title: facebook
+      url: https://www.facebook.com/ijanc
+    - title: github
+      url: https://github.com/murilobsd
+
+social:
+  - title: twitter
+    url: http://twitter.com/jekyllrb
+  - title: facebook
+    url: www.facebook.com.br/labmetoficial
+  - title: stack-overflow
+    url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: bitbucket
+    url: http://bitbucket.org/jekyll
+  - title: github
+    url: http://github.com/jekyll

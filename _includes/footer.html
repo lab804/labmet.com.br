@@ -5,39 +5,30 @@
         <div class="site-footer-top-col col-sm-8 col-sm-offset-2">
           <h2 class="section-title">Hello! We're making attractive websites which <b>WIN</b> your customers.</h2>
         </div>
-      </div>
-    </div>
-  </div>
-
-  <div id="siteFooterBottom" class="site-footer-bottom-section">
-    <div class="container">
-      <div class="site-footer-bottom-border"></div>
-      <div class="row">
-        <div class="site-footer-bottom-left-col col-md-6">
-          <div class="site-footer-brand">
-            bonefishcod <span>template</span>
-          </div>
-
-          <div class="site-footer-bottom-info">
-            <ul>
-              <li><a href="#" class="popup-inline" data-mfp-src="#termsOfService">Terms of Service</a></li>
-              <li><a href="#" class="popup-inline" data-mfp-src="#privacyPolicy">Privacy Policy</a></li>
-              <li><a href="#" class="popup-inline" data-mfp-src="#acceptableUsePolicy">Acceptable Use Policy</a></li>
-            </ul>
-          </div>
-        </div>
-
-        <div class="site-footer-bottom-right-col col-md-6">
-          <ul class="site-footer-bottom-social-list">
-            <li class="wow fadeInRight"><a href="https://facebook.com/labmetoficial" target="_blank"><span class="icon ti-facebook"></span></a></li>
-            <li class="wow fadeInRight" data-wow-delay="0.1s"><a href="https://twitter.com/labmetoficial" target="_blank"><span class="icon ti-twitter-alt"></span></a></li>
-            <li class="wow fadeInRight" data-wow-delay="0.2s"><a href="https://www.pinterest.com/" target="_blank"><span class="icon ti-pinterest-alt"></span></a></li>
-            <li class="wow fadeInRight" data-wow-delay="0.3s"><a href="https://github.com/lab804" target="_blank"><span class="icon ti-github"></span></a></li>
-            <li class="wow fadeInRight" data-wow-delay="0.4s"><a href="https://www.linkedin.com/labmetoficial" target="_blank"><span class="icon ti-linkedin"></span></a></li>
-          </ul>
-          <div class="site-footer-bottom-copyright">Copyright © 2016 Lab804. All Rights Reserved.</div>
+        <div class="row">
+            <div class="col-md-4">
+                <span class="copyright">Copyright &copy; {{ site.title }} {{ 'now' | date: "%Y" }}</span>
+            </div>
+            <div class="col-md-4">
+                <ul class="list-inline social-buttons">
+                    {% for network in site.social %}
+                    <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
+            <div class="col-md-4">
+                <ul class="list-inline quicklinks">
+                    <li><a href="#">Privacy Policy</a>
+                    </li>
+                    <li><a href="#">Terms of Use</a>
+                    </li>
+                </ul>
+            </div>
         </div>
       </div>
     </div>
   </div>
+
+
 </footer>
