@@ -9,7 +9,7 @@ permalink: /about/
       <br></br>
       <br></br>
       <br></br>
-        <ul class="nav nav-tabs" role="tablist">
+        <ul class="nav nav-pills nav-justified" role="tablist">
           <br></br>
           <li role="presentation" class="active"><a href="#aboutus" class="btn btn-primary btn-lg active" role="tab" data-toggle="tab">Sobre nós</a></li>
           <li role="presentation"><a href="#whatwedo" class="btn btn-primary btn-lg active" role="tab" data-toggle="tab">O que fazemos</a></li>
@@ -18,19 +18,18 @@ permalink: /about/
         </ul>
 
         <div class="tab-content">
-          <div role="tabpanel" class="tab-pane active" id="aboutus">
-            <br></br>
-            <h2 class="section-title"><b>Quem somos</b></h2>
-            <form role="form">
-              <p><h4>{% for line in site.about %}
-                      {{ line }} </p>
-                {% endfor %}</h4>
-              </p><br></br>
-            </form>
-            {% include timeline.html %}
-          </div>
+                      <div class="tab-pane fade in active" id="aboutus">
+                          <br></br>
+                          <h2 class="section-title"><b>Quem somos</b></h2>
+                          <form role="form">
+                            <p><h4>{% for line in site.about %}
+                                    {{ line }} </p>
+                              {% endfor %}</h4>
+                            </p><br></br>
+                          </form>{% include timeline.html %}
+                      </div>
 
-          <div role="tabpanel" class="tab-pane active" id="whatwedo">
+          <div class="tab-pane fade in active" id="whatwedo">
               <br></br>
               <h2 class="section-title"><b>O que fazemos</b></h2>
               <form role="form">
@@ -41,19 +40,19 @@ permalink: /about/
               </form>
           </div>
 
-          <div role="tabpanel" class="tab-pane" id="team">
-            <br></br>
-            <h2 class="section-title"><b>Nosso time</b></h2>
-            <form role="form">
-              <p><h4>{% for line in site.team %}
-                      {{ line }} </p>
-                {% endfor %}</h4>
-              </p><br></br>
-              {% include team.html %}
-            </form>
-          </div>
+                      <div class="tab-pane fade in active" id="team">
+                          <br></br>
+                          <h2 class="section-title"><b>Nosso time</b></h2>
+                          <form role="form">
+                            <p><h4>{% for line in site.team %}
+                                    {{ line }} </p>
+                              {% endfor %}</h4>
+                            </p><br></br>
+                            {% include team.html %}
+                          </form>
+                      </div>
 
-          <div role="tabpanel" class="tab-pane" id="press">
+          <div class="tab-pane fade in active" id="press">
             <br></br>
             <h2 class="section-title"><b>Imprensa</b></h2>
             <form role="form">
@@ -64,6 +63,7 @@ permalink: /about/
               </p><br></br>
               </form>
             </div>
+
         </div>
       </div>
   </div>

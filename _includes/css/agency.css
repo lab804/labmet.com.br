@@ -255,6 +255,13 @@ fieldset[disabled] .btn-xl.active {
 }
 
 @media(min-width:768px) {
+    .navbar-brand > img {
+      padding-top: 5%;
+    }
+    .nav-pills > li.active > a, .nav-pills > li.active > a:focus, .nav-pills > li.active > a:hover{
+      background-color: #fff;
+      color: #222;
+    }
     .btn-primary.active.focus, .btn-primary.active:focus, .btn-primary.active:hover, .btn-primary.focus:active, .btn-primary:active:focus, .btn-primary:active:hover, .open > .dropdown-toggle.btn-primary.focus, .open > .dropdown-toggle.btn-primary:focus, .open > .dropdown-toggle.btn-primary:hover{
       background-color: #4C9A96;
     }
@@ -268,15 +275,16 @@ fieldset[disabled] .btn-xl.active {
         background-color: #222;
     }
     .navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:focus, .navbar-default .navbar-nav > .open > a:hover {
-        background-color: #222;;
+        background-color: #222;
     }
     .navbar-default {
-        padding: 2% 0;
+        padding: 1% 0;
         border: 0;
         -webkit-transition: padding .3s;
         -moz-transition: padding .3s;
         transition: padding .3s;
-        background-color: #222
+        background-color: #222;
+        padding-top: 2%;
     }
 
     .navbar-default .navbar-brand {
