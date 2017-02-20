@@ -22,26 +22,26 @@ permalink: /contact/
       <br></br>
       <br></br>
       <br></br>
-        <h3 class="section-title"><b>LabMet</b> contato</h3>
+        <h2 class="section-title"><b>LabMet</b> contato</h2>
           <div class="hline"></div>
               <form role="form">
                 <div class="form-group">
-                  <label for="InputName1">Your Name</label>
+                  <label for="InputName1"><h6>Nome</h6></label>
                   <input type="email" class="form-control" id="exampleInputEmail1">
                 </div>
                 <div class="form-group">
-                  <label for="InputEmail1">Email address</label>
+                  <label for="InputEmail1"><h6>Email</h6></label>
                   <input type="email" class="form-control" id="exampleInputEmail1">
                 </div>
                 <div class="form-group">
-                  <label for="InputSubject1">Subject</label>
+                  <label for="InputSubject1"><h6>Título</h6></label>
                   <input type="email" class="form-control" id="exampleInputEmail1">
                 </div>
                 <div class="form-group">
-                  <label for="message1">Message</label>
+                  <label for="message1"><h6>Mensagem</h6></label>
                   <textarea class="form-control" id="message1" rows="3"></textarea>
                 </div>
-                  <button type="submit" class="btn btn-theme">Submit</button><br></br>
+                  <button type="submit" class="btn btn-theme"><h6>Enviar</h6></button><br></br>
               </form>
     </div>
     <div class="col-lg-4">
@@ -50,15 +50,17 @@ permalink: /contact/
       <br></br>
       <div class="hline"></div>
         <p>
-          <h2><b>Endereço</b> </h2>
-            {% for line in site.address %}
+          <h3><b>Endereço</b></h3>
+            <h5>{% for line in site.address %}
                 {{ line }} <br>
-                  {% endfor %}
+                  {% endfor %}</h5>
               </p>
-          <h2><b>Telefones:</b> </h2>
-            {% for line in site.phone %}
+          <h3><b>Telefones:</b></h3>
+            <h5> {% for line in site.phone %}
                 {{ line }} <br>
-                  {% endfor %}
+                  {% endfor %}</h5>
     </div>
+    <br></br>
+    <br></br>
   </div>
 </div>

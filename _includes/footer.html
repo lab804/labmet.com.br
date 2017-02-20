@@ -1,34 +1,45 @@
-<footer class="site-footer">
-  <div id="siteFooterTop" class="site-footer-top-section">
-    <div class="container">
-      <div class="site-footer-top-row row">
-        <div class="site-footer-top-col col-sm-8 col-sm-offset-2">
-          <h2 class="section-title">Hello! We're making attractive websites which <b>WIN</b> your customers.</h2>
+	<body>
+    <footer class="footer-distributed">
+			<div class="footer-left">
+
+        <h4><span class="copyright">Copyright &copy; {{ site.title }} {{ 'now' | date: "%Y" }}</span></h4>
+        <ul class="list-inline quicklinks">
+            <li><a href="#">Privacy Policy</a>
+            </li>
+            <li><a href="#">Terms of Use</a>
+            </li>
+        </ul>
+      </div>
+      <div class="footer-center">
+        <div>
+          <i class="fa fa-map-marker"></i>
+          <p><span>{% for line in site.address %}
+              {{ line }} <br>
+                {% endfor %}</span></p><br></br>
         </div>
-        <div class="row">
-            <div class="col-md-4">
-                <span class="copyright">Copyright &copy; {{ site.title }} {{ 'now' | date: "%Y" }}</span>
-            </div>
-            <div class="col-md-4">
-                <ul class="list-inline social-buttons">
-                    {% for network in site.social %}
-                    <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
-                    </li>
-                    {% endfor %}
-                </ul>
-            </div>
-            <div class="col-md-4">
-                <ul class="list-inline quicklinks">
-                    <li><a href="#">Privacy Policy</a>
-                    </li>
-                    <li><a href="#">Terms of Use</a>
-                    </li>
-                </ul>
-            </div>
+        <div>
+					<i class="fa fa-phone"></i>
+					<p><span>{% for line in site.phone %}
+              {{ line }} <br>
+                {% endfor %}</span></p><br></br>
+        </div>
+        <div>
+          <i class="fa fa-envelope"></i>
+          <p><span><a href="/contact">Contato</a></span></p><br></br>
         </div>
       </div>
-    </div>
-  </div>
+        <div class="footer-right">
+					<p class="footer-company-about">
+						<span><h5><b>LabMet</b></h5></span>
+						<h6>CRIADO POR PESQUISADORES.<br> TESTADO POR AGRÔNOMOS.<br> APROVADO POR PRODUTORES.</h6>
+					</p>
+					<br>
+          <ul class="list-inline social-buttons">
+              {% for network in site.social %}
+              <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
+              {% endfor %}</li>
+          </ul>
+        </div>
+      </footer>
 
-
-</footer>
+</body>

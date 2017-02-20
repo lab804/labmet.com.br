@@ -1,17 +1,59 @@
-<link rel="stylesheet" href="timeline.css">
-
-<section id="timeline">
-  {% for item in site.history %}
-      <article>
-        <div class="inner">
-          <span class="date">
-            <span class="day">_</span>
-            <span class="month">{{item.mes}}</span>
-            <span class="year">{{item.ano}}</span>
-          </span>
-          <h2>{{item.title}}</h2>
-          <p>{{item.about}}</p>
+<section id="about">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading">Nossa História</h2>
+                <h3 class="section-subheading text-muted">{{ site.sub-history}}</h3>
+            </div>
+        </div>
+        {% for item in site.history %}
+        <article>
+        <div class="row">
+            <div class="col-lg-12">
+                <ul class="timeline">
+                  {% if item.position == null %}
+                    <li>
+                        <div class="timeline-image">
+                            <img class="img-circle img-responsive" src="/img/about/1.jpg" alt="">
+                        </div>
+                        <div class="timeline-panel">
+                            <div class="timeline-heading">
+                                <h4>{{item.month}},{{item.year}}</h4>
+                                <h4 class="subheading">{{item.title}}</h4>
+                            </div>
+                            <div class="timeline-body">
+                                <p class="text-muted">{{item.about}}</p>
+                            </div>
+                        </div>
+                    </li>
+                    {% else %}
+                    <li class="timeline-inverted">
+                        <div class="timeline-image">
+                            <img class="img-circle img-responsive" src="/img/about/{{ item.pic }}.jpg" alt="">
+                        </div>
+                        <div class="timeline-panel">
+                            <div class="timeline-heading">
+                                <h4>{{item.month}},{{item.year}}</h4>
+                                <h4 class="subheading">{{item.title}}</h4>
+                            </div>
+                            <div class="timeline-body">
+                                <p class="text-muted">{{item.about}}</p>
+                            </div>
+                        </div>
+                    </li>
+                    {% endif %}
+                    <br></br>
+                    {% endfor %}
+                    <li class="timeline-inverted">
+                        <div class="timeline-image">
+                            <h4>Be Part
+                                <br>Of Our
+                                <br>Story!</h4>
+                        </div>
+                    </li>
+                </ul>
+            </div>
         </div>
       </article>
-    {% endfor %}
+    </div>
 </section>

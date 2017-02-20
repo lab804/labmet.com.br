@@ -1,20 +1,13 @@
-title: LabMet
-email: contato@labmet.com.br
-author: labmet
-linkedin: labmet
-phone:
-  - (16) 3209 0000
-  - (16) 9999 9999
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
 baseurl: ""
 url: "http://localhost:4000"
 twitter_username: labmetoficial
 github_username:  lab804
-markdown: kramdown
-theme: minima
+title: LabMet
+email: contato@labmet.com.br
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
 gems:
   - jekyll-feed
   - jekyll-seo-tag
@@ -23,43 +16,6 @@ exclude:
   - Gemfile
   - Gemfile.lock O projeto LabMet é uma plataforma tecnológica de precisão e de fácil compreensão, com embasamento técnico, teórico e científico, que visa desenvolver um sistema de apoio aos agricultores, gestores agrícolas e pesquisadores, capaz de sanar as principais lacunas existentes nas ferramentas disponíveis atualmente no mercado. Este sistema tem por objetivo auxiliar nas tomadas de decisões gerenciais das principais culturas agrícolas do país.
   - .DS_Store
-address:
-  - Rua Barão do Rio Branco, 585
-  - Sala 705 / 7 Andar
-whatwedo:
-  - Projetado para produtores e gestores agrícolas, a <b>LabMet</b> entrega dados estruturados e precisos para a tomada de decisão.
-  - São mais de estações espelhadas pelo Brasil. Em um único ambiente, de forma simples e momentâneos, entregamos os dados. Você também pode ter dados da sua propriedade rural adquirindo nossas estações que foram feitas com carinho para voce.
-
-about:
-  - Nossa missão é entregar dados meteorológicos mais precisos para produtores e gestores agrícolas, de forma simples, rápida e segura.
-  - Nós acreditamos que os dados são a base para tudo. A LabMet quer trazer isto até você, com a maior qualidade e confiabilidade possível, a fim de conduzir você nas tomadas de decisão que irão interferir diretamente na sua pradução, desde o âmbito financeiro e produtivo até sustentável.
-press:
-  - O projeto LabMet é uma plataforma tecnológica de precisão e de fácil compreensão, com embasamento técnico, teórico e científico, que visa desenvolver um sistema de apoio aos agricultores, gestores agrícolas e pesquisadores, capaz de sanar as principais lacunas existentes nas ferramentas disponíveis atualmente no mercado. Este sistema tem por objetivo auxiliar nas tomadas de decisões gerenciais das principais culturas agrícolas do país.
-  - O projeto LabMet é uma plataforma tecnológica de precisão e de fácil compreensão, com embasamento técnico, teórico e científico, que visa desenvolver um sistema de apoio aos agricultores, gestores agrícolas e pesquisadores, capaz de sanar as principais lacunas existentes nas ferramentas disponíveis atualmente no mercado. Este sistema tem por objetivo auxiliar nas tomadas de decisões gerenciais das principais culturas agrícolas do país.
-  - O projeto LabMet é uma plataforma tecnológica de precisão e de fácil compreensão, com embasamento técnico, teórico e científico, que visa desenvolver um sistema de apoio aos agricultores, gestores agrícolas e pesquisadores, capaz de sanar as principais lacunas existentes nas ferramentas disponíveis atualmente no mercado. Este sistema tem por objetivo auxiliar nas tomadas de decisões gerenciais das principais culturas agrícolas do país.
-team:
-  - A nossa equipe possui engenheiros agrônomos que sabem o valor que estes dados têm e ajudam a todo momento.
-history:
-  - title: Quarto post
-    about: Ola mundo 4
-    mes: Abr
-    ano: 2004
-
-  - title: Terceiro post
-    about: Ola mundo 3
-    mes: Mar
-    ano: 2003
-
-  - title: Segundo post
-    about: Ola mundo 2
-    mes: Fev
-    ano: 2002
-
-  - title: Primeiro post
-    about: Ola mundo
-    mes: Jan
-    ano: 2001
-
 people:
 - name: Bárbara Panosso
   pic: 1
@@ -93,15 +49,89 @@ people:
       url: https://www.facebook.com/ijanc
     - title: github
       url: https://github.com/murilobsd
-
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: http://twitter.com/labmetoficial
   - title: facebook
     url: www.facebook.com.br/labmetoficial
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+    url: http://stackoverflow.com/lab804
   - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: http://bitbucket.org/lab804
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/lab804
+address:
+  - Rua Barão do Rio Branco, 585
+  - Sala 705 / 7 Andar
+  - Jaboticabal/Sp
+phone:
+  - (16) 3209 0000
+  - (16) 9999 9999
+markdown: kramdown
+permalink: pretty
+whatwedo:
+  - Projetado para produtores e gestores agrícolas, a <b>LabMet</b> entrega dados estruturados e precisos para a tomada de decisão.
+  - São mais de estações espelhadas pelo Brasil. Em um único ambiente, de forma simples e momentâneos, entregamos os dados. Você também pode ter dados da sua propriedade rural adquirindo nossas estações que foram feitas com carinho para voce.
+
+about:
+  - Nossa missão é entregar dados meteorológicos mais precisos para produtores e gestores agrícolas, de forma simples, rápida e segura.
+  - Nós acreditamos que os dados são a base para tudo. A LabMet quer trazer isto até você, com a maior qualidade e confiabilidade possível, a fim de conduzir você nas tomadas de decisão que irão interferir diretamente na sua pradução, desde o âmbito financeiro e produtivo até sustentável.
+press:
+  - O projeto LabMet é uma plataforma tecnológica de precisão e de fácil compreensão, com embasamento técnico, teórico e científico, que visa desenvolver um sistema de apoio aos agricultores, gestores agrícolas e pesquisadores, capaz de sanar as principais lacunas existentes nas ferramentas disponíveis atualmente no mercado. Este sistema tem por objetivo auxiliar nas tomadas de decisões gerenciais das principais culturas agrícolas do país.
+team:
+  - A nossa equipe possui engenheiros agrônomos que sabem o valor que estes dados têm e ajudam a todo momento.
+sub-team: Nosso time é o melhor no que faz!
+sub-history:
+  - Breve intro
+history:
+  - position: noinverted
+    pic: 4
+    title: Quarto post
+    about: Ola mundo 4
+    month: Abr
+    year: 2004
+
+  - position:
+    pic: 3
+    title: Terceiro post
+    about: Ola mundo 3
+    month: Mar
+    year: 2003
+
+  - position: noinverted
+    pic: 2
+    title: Segundo post
+    about: Ola mundo 2
+    month: Fev
+    year: 2002
+
+  - position:
+    pic: 1
+    title: Primeiro post
+    about: Ola mundo
+    month: Jan
+    year: 2001
+presslab:
+  - modal-id: www.facebook.com.br
+    pic: 4
+    title: Quarto post
+    month: Abr
+    year: 2004
+
+  - modal-id: www.facebook.com.br
+    pic: 3
+    title: Terceiro post
+    month: Mar
+    year: 2003
+
+  - modal-id: www.facebook.com.br2
+    pic: 2
+    title: Segundo post
+    month: Fev
+    year: 2002
+
+  - modal-id: www.facebook.com.br
+    pic: 1
+    title: Primeiro post
+    month: Jan
+    year: 2001
