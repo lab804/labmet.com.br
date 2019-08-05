@@ -225,6 +225,8 @@ section
 }
 .parallax_background
 {
+	background-color: black;
+	opacity: 0.6;
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -364,6 +366,7 @@ section
 }
 .header_top
 {
+	background-color: black;
 	width: 100%;
 	z-index: 2;
 }
